@@ -1,7 +1,7 @@
 public class primenumbers {
     public static void main(String[] args) {
         int i, num, count;
-        System.out.println("Prime numbers from 1 to 100 are:");
+        System.out.println("Prime  from 1 to 100 are:");
         for (i = 1; i <= 100; i++) {
             count = 0;
             for (num = i; num >= 1; num--) {
